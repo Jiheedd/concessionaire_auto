@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047462100769",
+    "project_id": "concessionaire-f5b10",
+    "storage_bucket": "concessionaire-f5b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047462100769:android:d6950537111d51178d8860",
+        "android_client_info": {
+          "package_name": "com.example.concessionaireAuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047462100769-lp606cq2gb7k2mkhu3t6d4m3kut7mkt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.concessionaireAuto",
+            "certificate_hash": "0cb92eaa9e1ed43fe63c3a56b2f11ca15746ad56"
+          }
+        },
+        {
+          "client_id": "1047462100769-1g9i243pbl53a3vlt5gg90nuumb3doio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYhMPc7FM7cT91vS-BycM3LZo4Ds8Bzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047462100769-1g9i243pbl53a3vlt5gg90nuumb3doio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
